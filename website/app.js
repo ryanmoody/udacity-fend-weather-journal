@@ -1,6 +1,6 @@
 /* Global Variables */
 const API_BASE_URL = 'http://api.openweathermap.org/data/2.5/weather?';
-const API_KEY = '353e2e6b84796993a158dfa87150acbf';
+const API_KEY = 'ADD API KEY HERE';
 
 let counter = 1;
 
